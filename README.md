@@ -1,1 +1,1 @@
-I'm Gonna Add C++ Project in File. For more project check out other repository
+I'm going to add a C++ project to this repository. For more projects, check out the other repository.
